@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="132dp"
         android:layout_marginTop="52dp"
-        android:text="Enter your PIN"
+        android:text="@string/enter_your_pin"
         android:textColor="@color/white"
         android:textSize="25sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -224,14 +224,14 @@
                 style="@style/btn_dark" />
         </LinearLayout>
 
-        <Button
-            android:id="@+id/next"
-            android:layout_width="150dp"
-            android:layout_height="50dp"
-            android:text = "next"
-            android:textSize="20sp"
-            android:visibility="gone"
-            android:layout_marginStart="250dp"/>
+<!--        <Button-->
+<!--            android:id="@+id/next"-->
+<!--            android:layout_width="150dp"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:text = "next"-->
+<!--            android:textSize="20sp"-->
+<!--            android:visibility="gone"-->
+<!--            android:layout_marginStart="250dp"/>-->
 
 
 

@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Registration"
+        android:text="@string/registration"
         android:textAllCaps="true"
         android:textColor="@color/white"
         android:textSize="32sp" />
@@ -24,7 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="55dp"
         android:layout_marginTop="20dp"
-        android:hint="Name"
+        android:hint="@string/name"
         android:textColorHint="@color/white"
         app:boxStrokeColor="@color/white">
 
@@ -43,7 +43,7 @@
         android:layout_width="match_parent"
         android:layout_height="55dp"
         android:layout_marginTop="20dp"
-        android:hint="Password"
+        android:hint="@string/password"
         android:textColorHint="@color/white"
         app:boxStrokeColor="@color/my_blue"
         app:passwordToggleEnabled="true"
@@ -63,7 +63,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Forgot your password?"
+        android:text="@string/forgot_your_password"
         android:textColor="@color/white"
         android:textSize="13sp" />
 
@@ -75,7 +75,7 @@
         android:backgroundTint="@color/my_blue"
         android:insetTop="0dp"
         android:insetBottom="0dp"
-        android:text="Sign Up"
+        android:text="@string/sign_up"
         android:textAllCaps="false"
         android:textColor="@color/black"
         android:textSize="16sp"

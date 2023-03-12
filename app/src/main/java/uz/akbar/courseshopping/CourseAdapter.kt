@@ -25,10 +25,12 @@ class CourseAdapter(context: Context, var courses: MutableList<Course>):ArrayAda
 //            placeholder(R.drawable.ic_launcher_background)
 //            error(androidx.appcompat.R.drawable.abc_btn_radio_material_anim)
 //        }
-        binding.img.setImageResource(course.img)
+//        binding.img.setImageResource(course.img)
+
 
         binding.name.text = course.name
         binding.price.text = course.price.toString()
+
         return binding.root
     }
 

@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">CourseShopping</string>
     <string name="choose_your_language">Choose your language</string>
     <string name="next">next</string>
     <string name="i_agree">I agree</string>

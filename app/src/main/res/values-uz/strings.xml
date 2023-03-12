@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_your_language">Tilingizni tanlang</string>
+    <string name="next">keyingi</string>
+    <string name="i_agree">men roziman</string>
+    <string name="create_your_pin">PIN yarating</string>
+    <string name="enter_your_pin">PIN kiriting</string>
+    <string name="hello_there">Salom</string>
+    <string name="what_do_you_want_to_learn">Nima organmoqchisiz</string>
+    <string name="search">qidiruv</string>
+    <string name="courses">Kurslar</string>
+    <string name="registration">Registratsiya</string>
+    <string name="name">Ism</string>
+    <string name="password">Maxfiy soz</string>
+    <string name="forgot_your_password">Parolni unutdingizmi?</string>
+    <string name="sign_up">Royxatdan otish</string>
+    <string name="price">narx</string>
+
+</resources>

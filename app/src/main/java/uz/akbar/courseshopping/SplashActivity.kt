@@ -45,7 +45,7 @@ class SplashActivity : AppCompatActivity() {
 
         Handler(Looper.getMainLooper()).postDelayed({
             if (!state) {
-                val intent = Intent(this, RegisterActivity::class.java)
+                val intent = Intent(this, TermsActivity::class.java)
                 startActivity(intent)
                 finish()
             } else {
